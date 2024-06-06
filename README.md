@@ -63,14 +63,13 @@
 
 </p>
 
-## <img src="https://media4.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width ="25"><b> GitHub Stats</b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aleramiirez&show_icons=true&locale=en&layout=compact" alt="aleramiirez" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aleramiirez&show_icons=true&locale=en" alt="aleramiirez" />
-</p>
-
+<a href="https://github.com/aleramiirez/">
+    <img src="https://github-readme-stats.vercel.app/api?username=aleramiirez&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aleramiirez&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" alt="aleramiirez"/>
+</a>
+</div>
