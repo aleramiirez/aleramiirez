@@ -18,7 +18,7 @@
 class UserProfile {
   private String name = "Alejandro Ramirez";
   private String username = "aleramiirez";
-  private String location = "Sevilla";
+  private String location = "Sevilla, España";
   private String instagram = "@_aleramiirez_";
 }
 
