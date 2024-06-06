@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Bienvenido+a+mi+perfil+de+GitHub;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Bienvenido+a+mi+perfil+de+GitHub;Software+Developer;"></a>
 </p>
 
 <div align="center">
@@ -11,12 +11,22 @@
        alt="snake" /></a>
 </div>
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Software Developer</h2></summary>
-  </ul>
-</div>
+<br>
+
+``` Java
+
+class UserProfile {
+  private String name = "Alejandro Ramirez";
+  private String username = "aleramiirez";
+  private String location = "Sevilla";
+  private String instagram = "@_aleramiirez_";
+}
+
+public static void main(String[] args) {
+  UserProfile me = new UserProfile();
+}
+
+```
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
