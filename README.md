@@ -54,6 +54,7 @@ public static void main(String[] args) {
     ![.NET](https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=dot-net&logoColor=white)
     ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
     ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
+    ![Kafka](https://img.shields.io/badge/Kafka-%23031D44.svg?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
 <br>
 
