@@ -12,7 +12,7 @@ class UserProfile {
   private String name = "Alejandro Ramirez";
   private String username = "aleramiirez";
   private String location = "Sevilla, España";
-  private String instagram = "@_aleramiirez_";
+  private String linkedin = "www.linkedin.com/in/alejandro-ramírez-luque-9a35a9278"
 }
 
 public static void main(String[] args) {
