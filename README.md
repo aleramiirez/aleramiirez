@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Header animado con ondas -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24,36&height=220&section=header&text=Alejandro%20Ram%C3%ADrez&fontSize=42&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Cloud%20%26%20Microservices&descAlignY=58&descAlign=50&theme=dark" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24,36&height=220&section=header&text=Alejandro%20Ram%C3%ADrez&fontSize=42&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20Cloud%20Architecture%20%E2%80%A2%20Microservices&descAlignY=58&descAlign=50&theme=dark" width="100%"/>
 
   <!-- Typing SVG animado -->
   <a href="https://aleramiirez.github.io">
